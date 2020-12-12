@@ -3,6 +3,7 @@ import requests
 import json
 # 单元测试框架
 import unittest
+# 可视化报告框架
 import allure_commons
 
 class Test(unittest.TestCase):
